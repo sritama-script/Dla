@@ -9,4 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sritama-script/Dla/tree/master/0046-permutations) |
+| [0089-gray-code](https://github.com/sritama-script/Dla/tree/master/0089-gray-code) |
+## Math
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/sritama-script/Dla/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/sritama-script/Dla/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
