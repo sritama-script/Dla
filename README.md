@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sritama-script/Dla/tree/master/0046-permutations) |
+| [0088-merge-sorted-array](https://github.com/sritama-script/Dla/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sritama-script/Dla/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sritama-script/Dla/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/sritama-script/Dla/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sritama-script/Dla/tree/master/0509-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/sritama-script/Dla/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
